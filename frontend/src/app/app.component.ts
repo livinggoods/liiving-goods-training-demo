@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { environment } from '../environments/environment';
 
 @Component({
   selector: 'app-root',
@@ -16,7 +17,7 @@ export class AppComponent {
   }
 
   getIndex() {
-    this._http.get('http://localhost:5000/')
+    this._http.get(`${environment.host}/`)
     .subscribe((v: { msg: string; time: string; }) => {
       this.backend_res.push(v);
     });

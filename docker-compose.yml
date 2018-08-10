@@ -4,7 +4,6 @@ version: '3.3'
 services:
   web:
     container_name: frontend
-    # restart: on-failure
     networks:
       - lg_net
     build:
@@ -36,6 +35,8 @@ services:
     build:
       context: "./backend"
       dockerfile: Dockerfile
+    ports:
+      - "4000:5000"
     volumes:
       - type: bind
         source: ./backend

@@ -36,3 +36,65 @@
 10-08-2018 11:40 +00:00: [0mGET /styles.js [32m200 [0m34.647 ms - -[0m
 10-08-2018 11:40 +00:00: [0mGET /vendor.js [32m200 [0m11.385 ms - -[0m
 10-08-2018 11:40 +00:00: [0mGET /favicon.ico [32m200 [0m1.597 ms - -[0m
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:56 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:57 +00:00: Listening on port 8000
+10-08-2018 11:58 +00:00: [0mGET / [32m200 [0m31.878 ms - 577[0m
+10-08-2018 11:58 +00:00: [0mGET /polyfills.js [32m200 [0m1.414 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /main.js [32m200 [0m2.261 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /runtime.js [32m200 [0m10.101 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /styles.js [32m200 [0m13.690 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /runtime.js.map [32m200 [0m1.247 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /polyfills.js.map [32m200 [0m2.548 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /styles.js.map [32m200 [0m3.582 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /vendor.js [32m200 [0m17.459 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /main.js.map [32m200 [0m2.280 ms - -[0m
+10-08-2018 11:58 +00:00: [0mGET /vendor.js.map [32m200 [0m2.845 ms - -[0m
+10-08-2018 12:01 +00:00: Listening on port 8000
+10-08-2018 12:01 +00:00: Listening on port 8000
+10-08-2018 12:01 +00:00: Listening on port 8000
+10-08-2018 12:01 +00:00: Listening on port 8000
+10-08-2018 12:01 +00:00: [0mGET / [32m200 [0m18.823 ms - 590[0m
+10-08-2018 12:01 +00:00: [0mGET /styles.34c57ab7888ec1573f9c.css [32m200 [0m1.739 ms - -[0m
+10-08-2018 12:01 +00:00: [0mGET /main.ca894ac5aee43cebf463.js [32m200 [0m0.838 ms - -[0m
+10-08-2018 12:01 +00:00: [0mGET /runtime.a66f828dca56eeb90e02.js [32m200 [0m39.069 ms - -[0m
+10-08-2018 12:01 +00:00: [0mGET /polyfills.2f4a59095805af02bd79.js [32m200 [0m48.058 ms - -[0m
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: Listening on port 8000
+10-08-2018 12:03 +00:00: [0mGET / [32m200 [0m13.514 ms - 590[0m
+10-08-2018 12:03 +00:00: [0mGET /styles.34c57ab7888ec1573f9c.css [32m200 [0m1.155 ms - -[0m
+10-08-2018 12:03 +00:00: [0mGET /runtime.a66f828dca56eeb90e02.js [32m200 [0m39.270 ms - -[0m
+10-08-2018 12:03 +00:00: [0mGET /main.f7c5a7727bc23704a653.js [32m200 [0m2.891 ms - -[0m
+10-08-2018 12:03 +00:00: [0mGET /polyfills.2f4a59095805af02bd79.js [32m200 [0m13.886 ms - -[0m
+10-08-2018 12:04 +00:00: Listening on port 8000
+10-08-2018 12:04 +00:00: Listening on port 8000
+10-08-2018 12:04 +00:00: Listening on port 8000
+10-08-2018 12:04 +00:00: Listening on port 8000
+10-08-2018 12:05 +00:00: [0mGET / [36m304 [0m11.689 ms - -[0m
+10-08-2018 12:05 +00:00: [0mGET /styles.34c57ab7888ec1573f9c.css [36m304 [0m5.994 ms - -[0m
+10-08-2018 12:05 +00:00: [0mGET /runtime.a66f828dca56eeb90e02.js [36m304 [0m12.354 ms - -[0m
+10-08-2018 12:05 +00:00: [0mGET /polyfills.2f4a59095805af02bd79.js [36m304 [0m21.385 ms - -[0m
+10-08-2018 12:05 +00:00: [0mGET /main.f7c5a7727bc23704a653.js [36m304 [0m26.662 ms - -[0m
