@@ -42,7 +42,7 @@ services:
         source: ./backend
         target: /var/www/
     environment:
-      - ENV='production'
+      - ENV='development'
   
 networks:
   lg_net:
