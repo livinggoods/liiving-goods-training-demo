@@ -1,0 +1,47 @@
+
+version: '3.3'
+
+services:
+  web:
+    container_name: frontend
+    # restart: on-failure
+    networks:
+      - lg_net
+    build:
+      context: "./frontend"
+      dockerfile: Dockerfile
+    command: yarn serve
+    ports:
+      - "4400:8000"
+    volumes:
+      - type: bind
+        source: ./frontend/node_modules
+        target: /var/www/html/node_modules
+      - type: bind
+        source: ./frontend
+        target: /var/www/html
+      - type: bind
+        source: ./frontend/logs
+        target: /var/www/html/logs
+      - type: volume
+        source: ./frontend/dist
+        target: /var/www/html/dist
+    depends_on:
+      - backend
+
+  backend:
+    networks:
+      - lg_net
+    container_name: backend
+    build:
+      context: "./backend"
+      dockerfile: Dockerfile
+    volumes:
+      - type: bind
+        source: ./backend
+        target: /var/www/
+    environment:
+      - ENV='production'
+  
+networks:
+  lg_net:

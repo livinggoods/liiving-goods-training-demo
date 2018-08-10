@@ -1,0 +1,9 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+<button (click)="getIndex()">Check Backend</button>
+
+<div class="backend-response">
+  <p *ngFor="let res of backend_res">
+    {{ res.msg }} - <small>said on: {{res.time | date:'hh:mm:ss a' }}</small>
+  </p>
+</div>
